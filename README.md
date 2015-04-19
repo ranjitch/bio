@@ -1,4 +1,5 @@
-# Conflict Title
+
+# Another Conflicting Title 
 
 This is a sample project created for me and Brad to learn the ropes
 
